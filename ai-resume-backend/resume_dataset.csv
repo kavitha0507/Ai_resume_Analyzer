@@ -1,0 +1,13 @@
+ID,Name,Email,Phone,ResumeText,Fraudulent
+1,John Doe,john.doe@email.com,123-456-7890,"Experienced Java Developer with expertise in Spring Boot, Microservices, and AI.",0
+2,Jane Smith,jane.smith@email.com,987-654-3210,"Machine Learning Engineer skilled in Python, NLP, TensorFlow, and OpenAI.",0
+3,Emily Johnson,emily.j@email.com,456-123-7890,"Cybersecurity Expert with CISSP Certification, Ethical Hacking, and SOC experience.",0
+4,Michael Brown,michael.b@email.com,789-321-6540,"Full Stack Developer specialized in React, Node.js, AWS, and DevOps.",0
+5,Sophia Lee,sophia.lee@email.com,654-987-3210,"AI Researcher with strong NLP background, working with BERT and GPT models.",0
+6,Legit AI Engineer,legit.ai@email.com,111-222-3333,"Deep Learning Engineer with OpenAI experience, worked on BERT and LLMs.",0
+7,Software Dev,soft.dev@email.com,555-666-7777,"Software Engineer with expertise in Java, Spring Boot, and Microservices.",0
+8,Blockchain User,blockchain@email.com,666-888-9999,"Blockchain developer with experience in smart contracts and DeFi.",0
+9,Fake Name,fake.name@email.com,222-333-4444,"Has unverifiable experience at 'Unknown AI Lab'.",1
+10,Scammer Guy,scammer@email.com,777-111-2222,"Claims a PhD in Quantum Computing from a fake university.",1
+11,Fake Developer,fake.dev@email.com,333-444-5555,"Software Engineer with 15 years of experience at 'Unknown Tech Corp' (company does not exist).",1
+12,Unverified Recruiter,unverified.hr@email.com,888-999-1111,"Recruiter with HR experience from 'Online HR Academy' (not a real school).",1
